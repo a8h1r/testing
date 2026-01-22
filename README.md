@@ -1,1 +1,1 @@
-It's a mark down file# testing
+A simple interest calculator is a financial tool used to compute the interest earned or paid on a principal amount over a specified period at a fixed interest rate. It’s ideal for straightforward loans or savings scenarios where interest does not compound.
